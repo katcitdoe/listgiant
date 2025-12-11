@@ -7,7 +7,7 @@ download with [fetchv](https://fetchv.net/)
 | --- | --- | --- | --- | --- |
 | [mediapilot](https://mp.katcit.fyi/) | 2 | solid | high | high |
 | [xprime](https://xprime.stream/) | 6 | bad | high | high |
-| [animekai](https://animekai.me/) | 2 | great | high | high |
+| [animekai](https://animekai.me/) | 3 | great | high | high |
 | [aether](https://legacy.aether.mom/) | 1 | slow | high | med |
 | [1movies](https://1movies.bz/) | 0 | solid | med | med |  
 ## live tv
