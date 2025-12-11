@@ -1,6 +1,6 @@
 # listgiant
-fmhy but better in every way  
-you're only shown the best of the best, no bias
+[freemediaheckyeah](https://fmhy.net/) but better in every way  
+use [ublock origin](https://ublockorigin.com/) to remove most ads
 ## movies, series, and anime
 download with [fetchv](https://fetchv.net/)
 | website | ads | ui | mass | res |
@@ -30,3 +30,6 @@ coming soon
 coming soon
 ## recipes
 coming soon
+## games
+coming soon
+# 
