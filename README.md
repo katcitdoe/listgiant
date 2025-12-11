@@ -1,6 +1,6 @@
 # listgiant
 [freemediaheckyeah](https://fmhy.net/) but better in every way  
-use [ublock origin](https://ublockorigin.com/) to remove most ads
+download [ublock origin](https://ublockorigin.com/) to remove most ads
 ## movies, series, and anime
 download with [fetchv](https://fetchv.net/)
 | website | ads | ui | mass | res |
@@ -21,15 +21,12 @@ coming soon
 | --- | --- | --- | --- | --- |
 | [deezer](https://deezer.com/) | 2 | great | high | high |  
 | [bandcamp](https://bandcamp.com/) | 0 | fine | high | high |
-| [spotify](https://open.spotify.com/) | 6 | great | high | med |
+| [spotify](https://open.spotify.com/) | 6 | solid | high | med |
 | [somafm](https://somafm.com/player) | 0 | fine | med | med |
-| [audiomack](https://audiomack.com/) | 2 | solid | med | med |
+| [soundcloud](https://soundcloud.com/) | 2 | bad | med | med |
 ## podcasts
-coming soon
-## books
 coming soon
 ## recipes
 coming soon
 ## games
 coming soon
-# 
