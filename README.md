@@ -30,3 +30,9 @@ coming soon
 coming soon
 ## games
 coming soon
+## books
+coming soon
+## manga
+coming soon
+## fanfiction
+coming NEVER
